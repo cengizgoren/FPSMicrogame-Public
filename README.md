@@ -17,20 +17,20 @@ https://assetstore.unity.com/browse/fps-creator-bundle
   
 https://assetstore.unity.com/packages/3d/characters/robots/customizable-boss-fps-microgame-add-ons-162578  
   
-Unity m_EditorVersion:  2020.2.3f1  
+Unity m_EditorVersion:  2020.2.5f1  
   
-Keyboard  
+KEYBOARD  
   
-UP:  W OR UP  
-DOWN:  S OR DOWN  
-LEFT:  A OR LEFT  
-RIGHT:  D OR RIGHT  
-SHOOT:  LEFT MOUSE BUTTON  
-AIM:  RIGHT MOUSE BUTTON  
-SWITCH WEAPON:  Q E OR NUMBERS  
-JUMP:  SPACE  
-CROUCH:  C  
-SPRINT:  SHIFT  
-JETPACK:  PRESS AND HOLD SPACE  
-PAUSE:  TAB OR P  
+UP: w or up  
+DOWN: s or down  
+LEFT: a or left  
+RIGHT: d or right  
+JUMP: space  
+SHOOT:  left mouse  
+AIM:  right mouse  
+SWITCH WEAPON:  q e or numbers  
+CROUCH:  c  
+SPRINT:  shift  
+JETPACK:  press and hold space  
+PAUSE:  tab or p  
   
